@@ -1,0 +1,29 @@
+Market EDA summary
+============================================================
+
+--- AAH6 ---
+  half-life: no bbo_data.csv -- not computed (beta=None)
+  own PnL: final realized=0.00, final total=0.00
+
+--- AAM6 ---
+  half-life: no bbo_data.csv -- not computed (beta=None)
+  own PnL: final realized=-1976.64, final total=-14573.50
+  fills with known counterparty: 763 (passive/they-filled-us: 746, aggressor/we-filled-them: 0)
+  top counterparties fulfilling our orders (by volume):
+    BGQUOT03: 375
+    TAKER001: 135
+    TAKER002: 118
+    BGQUOT04: 111
+    QUOTE001: 7
+
+--- AAU6 ---
+  half-life: no bbo_data.csv -- not computed (beta=None)
+  own PnL: final realized=-4158.30, final total=-2753.00
+  fills with known counterparty: 672 (passive/they-filled-us: 653, aggressor/we-filled-them: 0)
+  top counterparties fulfilling our orders (by volume):
+    BGQUOT05: 342
+    TAKER001: 114
+    TAKER002: 102
+    BGQUOT06: 85
+    QUOTE001: 10
+
